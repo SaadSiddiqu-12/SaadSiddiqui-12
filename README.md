@@ -1,37 +1,44 @@
-<h1 align="center">SAAD SIDDIQUE</h1>
-<p align="center"><b>Software Engineering Student & Frontend Developer</b></p>
+<div align="center">
 
-<br>
+# SAAD SIDDIQUE
+### Software Engineering Student & Frontend Specialist
 
-### 🛠️ SYSTEM CORE & TECH STACK
+</div>
 
-| Category | Technology | Proficiency |
-| :--- | :--- | :--- |
-| **Language** | JavaScript ES6+ | Advanced |
-| **Markup & Style** | HTML5, CSS3, Glassmorphism | Expert |
-| **Tools & Version** | Git, GitHub, VS Code | Professional |
-| **Deployment** | Netlify, GitHub Pages | Active |
+---
 
-<br>
+### 💻 SYSTEM INTRO
 
-### 🚀 ACTIVE PROJECTS & DEPLOYMENTS
+I am a second semester software engineering student focused on building clean frontend architectures, responsive user interfaces, and immersive web applications using vanilla JavaScript and modern CSS layouts.
 
-* **Modern Music Player**  
-  A sleek dark mode web audio player featuring custom playlist management, real time progress tracking, and dynamic glassmorphism UI components. Fully deployed with live interactive source code.
+---
 
-* **Personal Developer Portfolio**  
-  A custom built professional portfolio portal showcasing live application demos, technical documentation, and direct project metrics.
+### ⚡ CORE TECHNOLOGIES
 
-<br>
+* **Languages:** JavaScript ES6+, HTML5, CSS3
+* **Development Environment:** Visual Studio Code, Git, GitHub
+* **Deployment Platforms:** Netlify, GitHub Pages
+* **Current Academic Focus:** Object Oriented Programming, Applied Physics, Software Design Logic
 
-### 📈 METRICS & ACTIVITY
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadSiddiqu-12&show_icons=true&hide_border=true&theme=react" width="100%" />
-</p>
+### 🚀 FEATURED DEPLOYMENTS
 
-<br>
+* **Modern Music Player**
+  * Built with pure HTML, CSS glassmorphism, and custom JavaScript audio controls.
+  * Features real time track management, dynamic playlist switching, and responsive design.
+  * Fully deployed and live with accessible open source code.
 
-<p align="center">
-  <b>[ STATUS: SYSTEM ONLINE & READY FOR COLLABORATION ]</b>
-</p>
+* **Personal Developer Portfolio**
+  * Handcrafted personal portal showcasing live production projects and technical workflows.
+  * Designed with clean component structures and direct interactive previews.
+
+---
+
+<div align="center">
+
+### 🌐 SYSTEM CONNECTION
+
+**Open for frontend collaborations, code optimization tasks, and technical discussions.**
+
+</div>
