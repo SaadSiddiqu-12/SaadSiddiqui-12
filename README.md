@@ -18,7 +18,7 @@ I am a second semester software engineering student focused on building clean fr
 * **Languages:** JavaScript ES6+, HTML5, CSS3
 * **Development Environment:** Visual Studio Code, Git, GitHub
 * **Deployment Platforms:** Netlify, GitHub Pages
-* **Current Academic Focus:** Object Oriented Programming, Applied Physics, Software Design Logic
+* **Current Academic Focus:** Object Oriented Programming, Software Design Logic
 
 ---
 
